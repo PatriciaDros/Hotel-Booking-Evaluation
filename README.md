@@ -1,5 +1,7 @@
 # Hotel Booking Evaluation: A Capstone Journey in Data Storytelling
 
+![Alt text](Peninsula Exterior.jpeg)
+
 ## My Journey
 Hi, I’m Patricia Dros, a New York-based data analyst who recently transitioned from operations to analytics, and I’m thrilled to share my capstone project from the Springboard Data Analytics Bootcamp (completed April 2023). This project, *Hotel Booking Evaluation*, was the culmination of months of learning, growth, and pure joy in discovering the power of data. As someone who spent years in project support and education, diving into this bootcamp was a leap of faith—but creating this project was the moment I knew I’d found my calling: analyzing data, telling stories, and finding order from the chaos (my tagline!).
 
@@ -57,11 +59,10 @@ I had a blast brainstorming solutions to help hotels thrive. Here’s what I rec
 ## Project Files
 - **Code**: Python scripts for cleaning and analysis, plus Excel files for exploration (in this repo).
 - **Tableau Story**: [Hotel Booking Evaluation](https://public.tableau.com/app/profile/patricia.dros/viz/HotelBookingEvaluation/Story1).
-- **Image**: `hotel_booking_tableau.jpg` (Tableau screenshot).
-
-*© 2025 Patricia Dros | Analyzing Data, Telling Stories, Finding Order from the Chaos*
+- **Image**: `Peninsula Exterior.jpeg` (Tableau screenshot).
 
 ## Reflection: Finding My Passion
 
 This project was a turning point. Analyzing data, crafting visuals, and making recommendations felt deeply fulfilling. I knew this was my calling—analyzing data, telling stories, and finding order from the chaos. The Springboard bootcamp gave me the tools, and this capstone gave me the confidence to pursue data analysis as my career. I’m eager to bring this passion to my next role and uncover insights that drive impact!
 
+*© 2025 Patricia Dros | Analyzing Data, Telling Stories, Finding Order from the Chaos*
