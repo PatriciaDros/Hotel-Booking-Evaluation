@@ -59,6 +59,8 @@ I had a blast brainstorming solutions to help hotels thrive. Here’s what I rec
 - **Tableau Story**: [Hotel Booking Evaluation](https://public.tableau.com/app/profile/patricia.dros/viz/HotelBookingEvaluation/Story1).
 - **Image**: `hotel_booking_tableau.jpg` (Tableau screenshot).
 
+*© 2025 Patricia Dros | Analyzing Data, Telling Stories, Finding Order from the Chaos*
+
 ## Reflection: Finding My Passion
 
 This project was a turning point. Analyzing data, crafting visuals, and making recommendations felt deeply fulfilling. I knew this was my calling—analyzing data, telling stories, and finding order from the chaos. The Springboard bootcamp gave me the tools, and this capstone gave me the confidence to pursue data analysis as my career. I’m eager to bring this passion to my next role and uncover insights that drive impact!
